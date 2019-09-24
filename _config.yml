@@ -1,9 +1,9 @@
 # Site settings
 title: 阿凡博客
-SEOTitle: 阿凡博客 | BY Blog
+SEOTitle: 阿凡博客 | Best Blog
 header-img: img/post-bg-desk.jpg
 email: 15890501589@163.com
-description: "网站是鄙人学习遇到的错误和趟过的坑，写到博客里面，只是为了帮助大家看到可以避免这种错误，也欢迎大家可以相互留言，共同"
+description: "网站是学习遇到的错误和趟过的坑，写到博客里面，只是为了帮助大家看到可以避免这种错误，也欢迎大家可以相互留言，共同进步！"
 keyword: "BY, BY Blog, 张凡的博客, qiubaiying, 凡哥, iOS, Apple, iPhone"
 url: "http://ZF68.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
