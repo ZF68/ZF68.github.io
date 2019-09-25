@@ -58,30 +58,6 @@ kramdown:
 # 评论系统
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
-
-#Gitalk 评论 start 
-{% if site.gitalk.enable %}
-# Link Gitalk 的支持文件 
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-    <script type="text/javascript">
-    var gitalk = new Gitalk({
-
-   # gitalk的主要参数
-        clientID: `73450e426e8e462f48b7`,
-        clientSecret: `1b5e2b08843de1b94edc9ef767167b22ab87f001`,
-        repo: `ZF68.github.io `,
-        owner: 'ZF68',
-        admin: ['ZF68'],
-        id: 'window.location.pathname',
-    
-    });
-    gitalk.render('gitalk-container');
-</script>
-{% endif %}
-
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
