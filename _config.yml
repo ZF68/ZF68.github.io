@@ -70,7 +70,7 @@ kramdown:
     var gitalk = new Gitalk({
 
    # gitalk的主要参数
-        clientID: `73450e426e8e462f48b7 `,
+        clientID: `73450e426e8e462f48b7`,
         clientSecret: `1b5e2b08843de1b94edc9ef767167b22ab87f001`,
         repo: `ZF68.github.io `,
         owner: 'ZF68',
